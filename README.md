@@ -10,5 +10,3 @@ Key highlights include sentiment analysis with Python, Transformers, and Scikit-
 
 Understanding sentiment in customer reviews provides actionable insights for authors and sellers. 
 This analysis uncovers patterns that impact book popularity, helping design targeted marketing strategies and improving user satisfaction.
-
-Dashboard Power Bi: 1Os-kyvCpbmJXMTZDwuPDe6oPGU4eBY28
